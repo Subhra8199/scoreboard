@@ -1,0 +1,31 @@
+body {
+    margin: 0;
+    background-color: #1F2937;
+    text-align: center;
+    font-weight: bold;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+    color: white;
+    display: flex;
+       
+}
+.court{
+    border: 30px solid black;
+    border-radius: 5px;
+    display: flex;
+    justify-content: space-around;
+    background-color: black;
+    color: red;
+   
+}
+
+.btn{
+    padding: 6px 6px; 
+    color: white;
+    background-color:#1F2937; 
+    border: 1px solid white;
+    border-radius: 5px;
+}
